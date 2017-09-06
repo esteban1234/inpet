@@ -331,3 +331,35 @@ footer p{
     overflow: hidden;
 }
 /*-----------------contacto-----------------*/
+.formulario{
+  /*border-top: 1px #65BFB4 solid;*/
+  overflow: hidden;
+  width: 100%;
+  /*background-color: green;*/
+}
+.tituloc{
+   font-size: 20px;
+  /*text-align: center;*/
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 7%;
+  color: #000;
+  margin-top: 5%;
+  margin-bottom: 3%;
+}
+.contenmapadatos{
+  overflow: hidden;
+  width: 100%;
+  background-color: #f7f9f9;
+  padding-top: 5%;
+}
+.mapa{
+  width: 50%;
+  margin-left: 8%;
+}
+.mapa iframe{
+  width: 100%;
+}
+.datos{
+  width: 42%;
+  /*border:2px red solid;*/
+}

@@ -8,8 +8,8 @@
 	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
   	<META NAME="Title" content="INPET INGENIERIA Y MANTENIMIENTO INDUSTRIAL">
   	<META NAME="Author" CONTENT="[http://inpet.com.mx/]"/>
-  	<META name="Description" content="Somos una compañía dedicados a ofrecer servicios de consultoria financiera, estrategia fiscal, Auditoria legal, Administración de nomina. Etc."/>
-     <META NAME="Keywords" CONTENT="Administradora de nominas, Auditoria fiscal, consultoria financiera."/>
+  	<META name="Description" content="Mensajería, Paquetería, Transporte Maritimo, Servicio Consolidado, Transportes, Empaque, Embalaje, Seguro de Mercancía."/>
+  	<META NAME="Keywords" CONTENT="Transporte de carga en Mexico, Transportes Maritimos."/>
   	<link rel="stylesheet" href="../css/bootstrap.css">
   	<link rel="stylesheet" href="../css/iconos.min.css">
 	<link rel="stylesheet" href="../css/estilos.css">
