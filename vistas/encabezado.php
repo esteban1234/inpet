@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	
+	<meta name="google-site-verification" content="D1GMo6AYXaictpcE0UQYyorqhKauBmICaXugBkaz5j4" />
 	<link rel="icon" type="image/png" href="img/favicon.png" />
 	<title>INPET INGENIERIA Y MANTENIMIENTO INDUSTRIAL</title>
 	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
