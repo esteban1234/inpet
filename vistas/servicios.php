@@ -13,6 +13,9 @@
       <a class="selector" href="contacto.php"><i class="fa fa-tty" aria-hidden="true"></i> CONTACTO</a>
     </ul>
   </nav>
+   <div class="menu-op">
+      <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+    </div>
 </header>
 
 <section class="sesion2">
@@ -26,7 +29,7 @@
 </p>
 </section>
 
-<section class="sesion2">
+<section class="sesion2 sesion22">
   <div class="uno">
     <h3 class="text-center">Fletamento de Buques</h3> <br>
     <p>
@@ -52,7 +55,7 @@ desarrollo de proyectos (Consulting services) <br>
       
     </p>
   </div>
-  <div class="uno">
+  <div class="uno tres">
     <h3 class="text-center">Agenciamiento y operaciones</h3> <br>
     <p>
       <i class="fa fa-chevron-right" aria-hidden="true"></i> Representación en calidad de agentes protectores <br> 
@@ -71,24 +74,24 @@ desarrollo de proyectos (Consulting services) <br>
  <div class="section sesion3">
       <div class="container">
       <h1 class="text-center">Otros servicios</h1> <br><br> 
-        <div class="row">
-          <div class="col-md-4 col-md-offset-2">
+        <div class="row new-tam">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-md-offset-2">
             <figure class="imgservicios">
             <!-- <div class="fondo">
               <div class="text-imgservicios">BODAS</div>
             </div> -->
           </figure>
-            <h3 class="text-center text-muted">Reparación y mantenimiento de otros artículos para el hogar</h3>
-            <p class="text-center text-muted">Conformado por ingenieros altamente capacitados en la reparación de refrigeradores, lavadoras, A/C, etc. Nuestros técnicos le brindarán confianza y seguridad al realizar su trabajo, y podrán resolver sus necesidades y sus consultas cuando lo necesite.</p>
+            <h3 class="text-center text-muted text-tit">Reparación y mantenimiento de otros artículos para el hogar</h3>
+            <p class="text-center text-muted text-contenido">Conformado por ingenieros altamente capacitados en la reparación de refrigeradores, lavadoras, A/C, etc. Nuestros técnicos le brindarán confianza y seguridad al realizar su trabajo, y podrán resolver sus necesidades y sus consultas cuando lo necesite.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-6 col-md-4">
             <figure class="imgservicios2">
             <!-- <div class="fondo">
               <div class="text-imgservicios">BODAS</div>
             </div> -->
           </figure>
-            <h2 class="text-center text-muted">Servicios de instalaciones</h2>
-            <p class="text-center text-muted">Ingenieros, dibujantes, electricistas, carpinteros, modelistas y fontaneros, trabajan bajo un mismo objetivo: hacer excelentes todos los servicios.</p>
+            <h2 class="text-center text-muted text-tit">Servicios de instalaciones</h2>
+            <p class="text-center text-muted text-contenido">Ingenieros, dibujantes, electricistas, carpinteros, modelistas y fontaneros, trabajan bajo un mismo objetivo: hacer excelentes todos los servicios.</p>
           </div>
           
         </div>

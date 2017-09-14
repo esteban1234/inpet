@@ -23,6 +23,10 @@ header{
     /*background-attachment: fixed;*/
 }
 
+.menu-op{
+    display: none;
+    }
+
 .logo{
   width: 20%;
   margin: 4% 6% 0% 0%;

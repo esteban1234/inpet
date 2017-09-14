@@ -15,6 +15,9 @@
       <a class="selector" id="select" href="contacto.php"><i class="fa fa-tty" aria-hidden="true"></i> CONTACTO</a>
     </ul>
   </nav>
+   <div class="menu-op">
+      <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+    </div>
 </header>
 
 <section class="sesion2">
@@ -103,7 +106,7 @@
             <div class="col-sm-8 col-md-8">
                 <div class="form-group">
                     <label>Comentario</label>
-                    <textarea id="txtCOMENTARIO" class="col-sm-3 col-md-3 form-control"  name="message" rows="8" placeholder="Escribe tu comentario"></textarea>
+                    <textarea id="txtCOMENTARIO" class="col-sm-3 col-md-3 form-control"  name="message" rows="8" placeholder="Escribe tu comentario"></textarea><br>
                     <div id="_AJAX_PRE_"></div>
                     <button style="margin-top: 5%;" class="btn btn-default pull-right"  onclick="sendCORREO()">ENVIAR</button>
                 </div>

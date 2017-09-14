@@ -15,6 +15,9 @@
       <a class="selector" href="contacto.php"><i class="fa fa-tty" aria-hidden="true"></i> CONTACTO</a>
     </ul>
   </nav>
+   <div class="menu-op">
+      <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+    </div>
 </header>
 
 <section class="sesion2">
@@ -45,37 +48,37 @@
 
   <div class="section sesion3">
       <div class="container">
-      <h1 class="text-center">EXPERIENCIA Y VENTAJA</h1> <br><br> 
+      <h1 class="text-center text-h1-nos">EXPERIENCIA Y VENTAJA</h1> <br><br> 
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <div class="icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-bar-chart fa-stack-1x fa-inverse"></i>
               </span>
             </div>
-            <h3 class="text-center text-muted">SERVICIOS BASADOS EN ACTIVOS PROPIOS</h3>
-            <p class="text-center text-muted">Mas opciones con eficiente control y puntualidad. Para un balance ideal entre costo y confiabilidad.</p>
+            <h3 class="text-center text-muted text-tit">SERVICIOS BASADOS EN ACTIVOS PROPIOS</h3>
+            <p class="text-center text-muted text-contenido">Mas opciones con eficiente control y puntualidad. Para un balance ideal entre costo y confiabilidad.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <div class="icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-sitemap fa-stack-1x fa-inverse"></i>
               </span>
             </div>
-            <h3 class="text-center text-muted">EQUIPO MULTIDISCIPLINARIO</h3>
-            <p class="text-center text-muted">xpertos en Transporte de diversos tipos de carga, en Regulaciones Aduaneras, Gubernamentales. Maniobristas de carga, sí como empaque y embalaje. Dando su punto de vista en todo momento para cada proyecto.</p>
+            <h3 class="text-center text-muted text-tit">EQUIPO MULTIDISCIPLINARIO</h3>
+            <p class="text-center text-muted text-contenido">xpertos en Transporte de diversos tipos de carga, en Regulaciones Aduaneras, Gubernamentales. Maniobristas de carga, sí como empaque y embalaje. Dando su punto de vista en todo momento para cada proyecto.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <div class="icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-users fa-stack-1x fa-inverse"></i>
               </span>
             </div>
-            <h3 class="text-center text-muted">TRABAJO EN EQUIPO PARA LA SOLUCIÓN DE PROBLEMAS</h3>
-            <p class="text-center text-muted">Tenemos el conocimiento y la experiencia para superar cualquier reto de transportación. Siendo capaces de desarrollar estrategias y servicios específicos para cada necesidad de los proyectos que manejamos.</p>
+            <h3 class="text-center text-muted text-tit">TRABAJO EN EQUIPO PARA LA SOLUCIÓN DE PROBLEMAS</h3>
+            <p class="text-center text-muted text-contenido">Tenemos el conocimiento y la experiencia para superar cualquier reto de transportación. Siendo capaces de desarrollar estrategias y servicios específicos para cada necesidad de los proyectos que manejamos.</p>
           </div>
         </div>
       </div>

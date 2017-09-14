@@ -15,7 +15,9 @@
       <a class="selector" href="vistas/contacto.php"><i class="fa fa-tty" aria-hidden="true"></i> CONTACTO</a>
     </ul>
   </nav>
-
+   <div class="menu-op">
+      <i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+    </div>
 </header>
 <div class="carousel fade-carousel slide" data-ride="carousel" data-interval="3000" id="bs-carousel">
 
@@ -71,35 +73,35 @@
   <hr> <br><br>
   <div class="container"> <br><br>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <div class="icono">
               <i class="fa fa-podcast fa-5x" aria-hidden="true"></i>
             </div>
-            <h3 class="text-center text-muted">¿Necesitas ayuda con el envío?</h3> <br>
-            <p class="text-muted">
+            <h3 class="text-center text-muted text-tit">¿Necesitas ayuda con el envío?</h3> <br>
+            <p class="text-muted text-contenido text-contenido-new">
             <i class="fa fa-caret-right" aria-hidden="true"></i> Te guiamos en el proceso de importación/exportación <br><br>
             <i class="fa fa-caret-right" aria-hidden="true"></i> Te ayudamos a conseguir ese negocio en el extranjero <br><br>
             <i class="fa fa-caret-right" aria-hidden="true"></i> Analizamos si es viable importar/exportar tus productos</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <div class="icono">
               <i class="fa fa-globe fa-5x" aria-hidden="true"></i>
             </div>
-            <h3 class="text-center text-muted">¿Usé la mejor ruta para importar / exportar?</h3> <br>
-            <p class="text-muted">
+            <h3 class="text-center text-muted text-tit">¿Usé la mejor ruta para importar / exportar?</h3> <br>
+            <p class="text-muted text-contenido text-contenido-new">
               <i class="fa fa-caret-right" aria-hidden="true"></i> Te asesoramos analizando la mejor ruta para disminuir costos <br><br>
             <i class="fa fa-caret-right" aria-hidden="true"></i> Con nuestra tecnología te damos claridad y certeza en todo el proceso <br><br>
             <i class="fa fa-caret-right" aria-hidden="true"></i> Tenemos experiencia y procesos bien definidos que hacen eficiente nuestra operación
             </p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <div class="icono">
               <i class="fa fa-ship fa-5x" aria-hidden="true"></i>
             </div>
-            <h3 class="text-center text-muted">
+            <h3 class="text-center text-muted text-tit">
             ¿Puedo asegurar mi mercancía? 
             ¿Es mejor aéreo o marítimo?</h3> <br>
-            <p class="text-muted">
+            <p class="text-muted text-contenido text-contenido-new">
               <i class="fa fa-caret-right" aria-hidden="true"></i> Nosotros armamos tus envíos y aseguramos tu mercancía <br><br>
             <i class="fa fa-caret-right" aria-hidden="true"></i> Coordinamos tus embarques en origen y destino <br><br>
             <i class="fa fa-caret-right" aria-hidden="true"></i> Ofrecemos servicio puerta – puerta. Nosotros nos encargamos de toda la planeación
@@ -113,13 +115,12 @@
 <section class="sesion2">
   <div class="container">
         <div class="row">
-          <div class="col-md-4 text-right col-md-offset-2">
-            <img src="img/mundo.png"
-            class="img-responsive">
+          <div class="col-xs-12 col-sm-4 col-md-4 text-right col-md-offset-2">
+            <img src="img/mundo.png" class="img-responsive img-contenido">
           </div>
-          <div class="col-md-6">
-            <h1 class="mt2" style="color: #fff;">Surtido y armado de pedidos</h1>
-            <p style="color: #fff;">Como parte del servicio integral nuestro personal esta preparado para surtir y armar pedidos con estrictas reglas de calidad, tomando en cuenta procesos impuestos por el cliente.
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <h1 class="mt2 text-cont-h1" style="color: #fff;">Surtido y armado de pedidos</h1>
+            <p class="text-contenido" style="color: #fff;">Como parte del servicio integral nuestro personal esta preparado para surtir y armar pedidos con estrictas reglas de calidad, tomando en cuenta procesos impuestos por el cliente.
             Por medio de órdenes de compra se hará el surtido de sus pedidos y se empacara listo para enviarse a donde se requiera.</p>
           </div>
         </div>
